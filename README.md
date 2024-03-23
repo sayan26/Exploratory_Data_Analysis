@@ -6,11 +6,12 @@ without assuming anything about its contents.
 
 <h1>Explaining the code</h1>
 
-This code runs on a pre-configured performance test dataset consisting KPIs such as Average Response Time,
-90th Percentile Response Time, Throughput and Latency.
+This code operates on a pre-set performance test dataset that includes KPIs like Average Response Time,
+90th Percentile Response Time, Throughput, and Latency.
 
-With the help of numpy, pandas, seaborn python libraries we have made basic commands with an intention to understand the
-basics of EDA and further could be used for integrating with LLM. (<i>This will be discussed later</i>)
+We have utilized numpy, pandas, and seaborn python libraries to execute fundamental commands in order to grasp
+the fundamentals of EDA. These commands can also be employed for seamless integration with LLM. 
+(<i>This will be discussed later</i>)
 
 <h1>Dependencies</h1>
 
